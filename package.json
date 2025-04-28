@@ -1,5 +1,5 @@
 {
-  "name": "studynotion",
+  "name": "learnify",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -32,11 +32,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/its-me-bauddha/studyNotion.git"
+    "url": "git+https://github.com/its-me-bauddha/learnify.git"
   },
   "author": "harsh",
   "bugs": {
-    "url": "https://github.com/its-me-bauddha/studyNotion.git"
+    "url": "https://github.com/its-me-bauddha/learnify.git"
   },
   "scripts": {
     "start": "react-scripts start",
